@@ -1,0 +1,55 @@
+CREATE DATABASE API_IONIC
+
+use API_IONIC
+
+CREATE TABLE grupo(
+	id AUTO_INCREMENT PRIMARY KEY,
+	nome varchar(100) NOT NULL
+);
+
+CREATE TABLE time(
+	id AUTO_INCREMENT PRIMARY KEY,
+	nome varchar(100) NOT NULL
+);
+
+ALTER TABLE "time" ADD CONSTRAINT "id_grupo" FOREIGN KEY ( "id" ) REFERENCES "grupo" ( "id" ) ;
+
+CREATE TABLE usuario(
+	id AUTO_INCREMENT PRIMARY KEY,
+	nome varchar(100) NOT NULL,
+	email varchar(100) NOT NULL,
+	senha varchar(100) NOT NULL,
+	nivel_acesso int NOT NULL default value 0
+);
+
+ALTER TABLE "usuario" ADD CONSTRAINT "id_time" FOREIGN KEY ( "id" ) REFERENCES "time" ( "id" ) ;
+
+CREATE TABLE chamado(
+	id AUTO_INCREMENT PRIMARY KEY,
+	titulo varchar(100) NOT NULL,
+	descricao varchar(2000) NOT NULL,
+	tipo int NOT NULL default value 1,
+	status int NOT NULL default value 0
+);
+
+ALTER TABLE "chamado" ADD CONSTRAINT "usuario_interessado" FOREIGN KEY ( "id" ) REFERENCES "usuario" ( "id" ) ;
+
+ALTER TABLE "chamado" ADD CONSTRAINT "usuario_requisitor" FOREIGN KEY ( "id" ) REFERENCES "usuario" ( "id" ) ;
+
+
+CREATE TABLE arquivo_midia(
+	id AUTO_INCREMENT PRIMARY KEY,
+	arquivo PADRAO ARQUIVO
+);
+
+
+ALTER TABLE "arquivo_midia" ADD CONSTRAINT "id_chamado" FOREIGN KEY ( "id" ) REFERENCES "chamado" ( "id" ) ;
+
+CREATE TABLE historico(
+	id AUTO_INCREMENT PRIMARY KEY,
+	acao varchar(100),
+	data datetime,
+	status int NOT NULL default value 0
+);
+
+ALTER TABLE "historico" ADD CONSTRAINT "id_chamado" FOREIGN KEY ( "id" ) REFERENCES "chamado" ( "id" ) ;
