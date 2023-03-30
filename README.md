@@ -46,28 +46,28 @@ Consiste em criar um sistema de chamados para atendimentos na area de saude, env
     <tr>
         <td><p align="center">1ª Sprint </p></td>
         <td><p align="justify">A definir</p></td>
-        <td><p align="center"></p></td>
+        <td><p align="center">A definir</p></td>
         <td><p align="center"><a href="">View</a></p></td>
         <td><p align="center"><a href="">Download</a></p></td>
     </tr>
     <tr>
         <td><p align="center">2ª Sprint </p></td>
         <td><p align="justify">A definir</p></td>
-        <td><p align="center"></p></td>
+        <td><p align="center">A definir</p></td>
         <td><p align="center"><a href="">View</a></p></td>
         <td><p align="center"><a href="">Download</a></p></td>
     </tr>
     <tr>
         <td><p align="center">3ª Sprint </p></td>
         <td><p align="justify">A definir</p></td>
-        <td><p align="center"></p></td>
+        <td><p align="center">A definir</p></td>
         <td><p align="center"><a href="">View</a></p></td>
         <td><p align="center"><a href="">Download</a></p></td>
     </tr>
     <tr>
         <td><p align="center">4ª Sprint </p></td>
         <td><p align="justify">A definir</p></td>
-        <td><p align="center"></p></td>
+        <td><p align="center">A definir</p></td>
         <td><p align="center"><a href="">View</a></p></td>
         <td><p align="center"><a href="">Download</a></p></td>
     </tr>
