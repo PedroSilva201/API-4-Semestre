@@ -11,7 +11,7 @@ Consiste em criar um sistema de chamados para atendimentos na area de saude, env
 4° Sprint: De 15 de Maio a 04 de Junho
 Feira de soluçoes em Junho com datas a serem definidas ainda
 # Backlog do projeto
-<h2>:calendar: Delivery Schedule :spiral_calendar:</h2>
+<h2>:calendar: Calendario de Avaliaçoes :spiral_calendar:</h2>
 <table>
     <thead>
         <th width=100px>Sprint</th>
