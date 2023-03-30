@@ -13,27 +13,27 @@ Consiste em criar um sistema de chamados para atendimentos na area de saude, env
         <th width=270px>Fim</th>
     </thead>
     <tr>
-        <td><p align="center">1ª Sprint </p></td>
+        <td><p align="center"> 1ª Sprint </p></td>
         <td><p align="center"> 13 de Março </p></td>
         <td><p align="center"> 02 de Abril</p></td>
     </tr>
     <tr>
-        <td><p align="center">2ª Sprint </p></td>
+        <td><p align="center"> 2ª Sprint </p></td>
         <td><p align="center"> 03 de Abril </p></td>
         <td><p align="center"> 23 de Abril </p></td>
     </tr>
     <tr>
-        <td><p align="center">3ª Sprint </p></td>
+        <td><p align="center"> 3ª Sprint </p></td>
         <td><p align="center"> 24 de Abril </p></td>
         <td><p align="center"> 15 de Maio </p></td>
     </tr>
     <tr>
-        <td><p align="center">4ª Sprint </p></td>
+        <td><p align="center"> 4ª Sprint </p></td>
         <td><p align="center"> 15 de Maio </p></td>
         <td><p align="center"> 04 de Junho </p></td>
     </tr>
 </table>
-<p>Feira de soluçoes em Junho com datas a serem definidas ainda</p>
+<p>Feira de soluçoes sera realizada em Junho com datas a serem definidas pela organizaçao</p>
 <h2>:calendar: Calendario de Avaliaçoes :spiral_calendar:</h2>
 <table>
     <thead>
