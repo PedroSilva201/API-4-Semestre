@@ -9,8 +9,8 @@ Consiste em criar um sistema de chamados para atendimentos na area de saude, env
 <table>
     <thead>
         <th width=100px>Sprint</th>
-        <th width=450px>Inicio</th>
-        <th width=70px>Fim</th>
+        <th width=270px>Inicio</th>
+        <th width=270px>Fim</th>
     </thead>
     <tr>
         <td><p align="center">1ª Sprint </p></td>
