@@ -33,8 +33,7 @@ Consiste em criar um sistema de chamados para atendimentos na area de saude, env
         <td><p align="center">A definir</p></td>
     </tr>
 </table>
-Feira de soluçoes em Junho com datas a serem definidas ainda
-# Backlog do projeto
+<p>Feira de soluçoes em Junho com datas a serem definidas ainda</p>
 <h2>:calendar: Calendario de Avaliaçoes :spiral_calendar:</h2>
 <table>
     <thead>
