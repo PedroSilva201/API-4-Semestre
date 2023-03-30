@@ -4,7 +4,7 @@ API - Aprendizagem de Projetos Integrados do 4° Semestre com a empresa parceira
 # Objetivo do projeto:
 Consiste em criar um sistema de chamados para atendimentos na area de saude, envolvendo medicos, funcionarios do ambiente hospitalar e equivalentes seguindo a lesgislaçao e atendendo a realidade proposta.
 # Os integrantes da equipe
-# Calendario de entregas
+# Calendario 
 <h2>:calendar: Calendario de Entregas :spiral_calendar:</h2>
 <table>
     <thead>
@@ -14,23 +14,23 @@ Consiste em criar um sistema de chamados para atendimentos na area de saude, env
     </thead>
     <tr>
         <td><p align="center">1ª Sprint </p></td>
-        <td><p align="justify">A definir</p></td>
-        <td><p align="center">A definir</p></td>
+        <td><p align="justify"> 13 de Março </p></td>
+        <td><p align="center"> 02 de Abril</p></td>
     </tr>
     <tr>
         <td><p align="center">2ª Sprint </p></td>
-        <td><p align="justify">A definir</p></td>
-        <td><p align="center">A definir</p></td>
+        <td><p align="justify"> 03 de Abril </p></td>
+        <td><p align="center"> 23 de Abril </p></td>
     </tr>
     <tr>
         <td><p align="center">3ª Sprint </p></td>
-        <td><p align="justify">A definir</p></td>
-        <td><p align="center">A definir</p></td>
+        <td><p align="justify"> 24 de Abril </p></td>
+        <td><p align="center"> 15 de Maio </p></td>
     </tr>
     <tr>
         <td><p align="center">4ª Sprint </p></td>
-        <td><p align="justify">A definir</p></td>
-        <td><p align="center">A definir</p></td>
+        <td><p align="justify"> 15 de Maio </p></td>
+        <td><p align="center"> 04 de Junho </p></td>
     </tr>
 </table>
 <p>Feira de soluçoes em Junho com datas a serem definidas ainda</p>
