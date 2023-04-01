@@ -32,10 +32,15 @@ CREATE TABLE chamado(
 	status int NOT NULL default value 0
 );
 
-ALTER TABLE "chamado" ADD CONSTRAINT "usuario_interessado" FOREIGN KEY ( "id" ) REFERENCES "usuario" ( "id" ) ;
-
 ALTER TABLE "chamado" ADD CONSTRAINT "usuario_requisitor" FOREIGN KEY ( "id" ) REFERENCES "usuario" ( "id" ) ;
 
+CREATE TABLE usuario_interessado(
+	id AUTO_INCREMENT PRIMARY KEY,
+);
+
+ALTER TABLE "usuario_interessado" ADD CONSTRAINT "id_chamado" FOREIGN KEY ( "id" ) REFERENCES "chamado" ( "id" ) ;
+
+ALTER TABLE "usuario_interessado" ADD CONSTRAINT "interessado" FOREIGN KEY ( "id" ) REFERENCES "usuario" ( "id" ) ;
 
 CREATE TABLE arquivo_midia(
 	id AUTO_INCREMENT PRIMARY KEY,
