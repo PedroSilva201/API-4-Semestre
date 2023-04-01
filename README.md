@@ -4,6 +4,40 @@ API - Aprendizagem de Projetos Integrados do 4° Semestre com a empresa parceira
 <h1>Objetivo do projeto</h1>
 Consiste em criar um sistema de chamados para atendimentos na area de saude, envolvendo medicos, funcionarios do ambiente hospitalar e equivalentes seguindo a lesgislaçao e atendendo a realidade proposta.
 <h1>Os integrantes da equipe</h1>
+<table>
+    <thead>
+        <th width=100px>Membro</th>
+        <th width=270px>Funçao</th>
+    </thead>
+    <tr>
+        <td><p align="center"> 1ª Sprint </p></td>
+        <td><p align="center"> Scrum Master </p></td>
+    </tr>
+    <tr>
+        <td><p align="center"> 2ª Sprint </p></td>
+        <td><p align="center"> Product Owner </p></td>
+    </tr>
+    <tr>
+        <td><p align="center"> 3ª Sprint </p></td>
+        <td><p align="center"> Dev Team </p></td>
+    </tr>
+    <tr>
+        <td><p align="center"> 4ª Sprint </p></td>
+        <td><p align="center"> Dev Team </p></td>
+    </tr>
+        <tr>
+        <td><p align="center"> 4ª Sprint </p></td>
+        <td><p align="center"> Dev Team </p></td>
+    </tr>
+        <tr>
+        <td><p align="center"> 4ª Sprint </p></td>
+        <td><p align="center"> Dev Team </p></td>
+    </tr>
+        <tr>
+        <td><p align="center"> 4ª Sprint </p></td>
+        <td><p align="center"> Dev Team </p></td>
+    </tr>
+</table>
 <h1>Cronograma<h1/>
 <h2>:calendar: Calendario de Entregas :spiral_calendar:</h2>
 <table>
