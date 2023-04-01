@@ -3,6 +3,7 @@
 API - Aprendizagem de Projetos Integrados do 4° Semestre com a empresa parceira Ionic Health
 <h1>Objetivo do projeto</h1>
 Consiste em criar um sistema de chamados para atendimentos na area de saude, envolvendo medicos, funcionarios do ambiente hospitalar e equivalentes seguindo a lesgislaçao e atendendo a realidade proposta.
+<h1>Proposta do projeto</h1>
 <h1>Os integrantes da equipe</h1>
 <table>
     <thead>
@@ -106,4 +107,6 @@ Consiste em criar um sistema de chamados para atendimentos na area de saude, env
         <td><p align="center"><a href="">Download</a></p></td>
     </tr>
 </table>
+<h1>Tecnologias envolvidas no projeto</h1>
+<h1>Product Backlog (Parcial)</h1>
 
