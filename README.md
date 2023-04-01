@@ -1,10 +1,10 @@
 # API-4-Semestre 2023-1
-# Equipe: Ilha dos Devs
+<h1>Equipe: Ilha dos Devs</h1>
 API - Aprendizagem de Projetos Integrados do 4° Semestre com a empresa parceira Ionic Health
-# Objetivo do projeto:
+<h1>Objetivo do projeto</h1>
 Consiste em criar um sistema de chamados para atendimentos na area de saude, envolvendo medicos, funcionarios do ambiente hospitalar e equivalentes seguindo a lesgislaçao e atendendo a realidade proposta.
-# Os integrantes da equipe
-# Cronograma
+<h1>Os integrantes da equipe</h1>
+<h1>Cronograma<h1/>
 <h2>:calendar: Calendario de Entregas :spiral_calendar:</h2>
 <table>
     <thead>
