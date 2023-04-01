@@ -6,8 +6,8 @@ Consiste em criar um sistema de chamados para atendimentos na area de saude, env
 <h1>Os integrantes da equipe</h1>
 <table>
     <thead>
-        <th width=100px>Membro</th>
-        <th width=270px>Funçao</th>
+        <th width=365px>Membro da Equipe</th>
+        <th width=365px>Função</th>
     </thead>
     <tr>
         <td><p align="center"> 1ª Sprint </p></td>
@@ -42,9 +42,9 @@ Consiste em criar um sistema de chamados para atendimentos na area de saude, env
 <h2>:calendar: Calendario de Entregas :spiral_calendar:</h2>
 <table>
     <thead>
-        <th width=100px>Sprint</th>
-        <th width=270px>Inicio</th>
-        <th width=270px>Fim</th>
+        <th width=110px>Sprint</th>
+        <th width=310px>Inicio</th>
+        <th width=310px>Fim</th>
     </thead>
     <tr>
         <td><p align="center"> 1ª Sprint </p></td>
