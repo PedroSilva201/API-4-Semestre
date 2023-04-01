@@ -47,6 +47,11 @@ Consiste em criar um sistema de chamados para atendimentos na area de saude, env
         <th width=310px>Inicio</th>
         <th width=310px>Fim</th>
     </thead>
+        <tr>
+        <td><p align="center"> Kick-off </p></td>
+        <td><p align="center"> 07 de Março </p></td>
+        <td><p align="center"> 07 de Março </p></td>
+    </tr>
     <tr>
         <td><p align="center"> 1ª Sprint </p></td>
         <td><p align="center"> 13 de Março </p></td>
