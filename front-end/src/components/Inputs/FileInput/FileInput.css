@@ -1,0 +1,118 @@
+
+.file-input-button {
+  background-color: #43949B;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 12px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 14em;
+}
+
+.file-input-button:hover {
+  background-color: #648365;
+}
+
+.file-input {
+  display: none;
+}
+
+.page-wrapper {
+  display: flex;
+  align-items: flex-start;
+}
+
+.left-column {
+  flex-basis: 70%;
+}
+
+.right-column {
+  margin-left: 5em;
+  flex-basis: 30%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: fit-content;
+  margin-top: 5.1em
+}
+
+.file-input-wrapper {
+  width: 22em;
+  align-items: center;
+  background-color: #fff;
+  border: 4px dashed #ccc;
+  border-radius: 8px;
+  margin-top: 2em;
+  padding: 20px;
+  height: 120px
+}
+
+.file-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h2 {
+  margin-top: 0;
+  text-align: center;
+  color: rgb(68, 65, 65);
+}
+
+p {
+  text-align: center;
+  color: #707070;
+}
+
+.name-file {
+  background-color: #ffffff;
+  padding: 0.4em;
+  border: solid ;
+  border-radius: 8px;
+  border-color: #fff;
+  margin-bottom: 0.5em;
+  display: flex;
+  align-items: center;
+  width: 23em;
+  margin-right: .5em;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  max-height: 200px;
+  overflow-y: scroll;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #f5f5f5;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #43949B;
+  border-radius: 10px;
+  border: 3px solid #f5f5f5;
+}
+
+.right-column ul {
+  margin-top: 1em;
+}
+
+.file-name {
+  margin: 0;
+  text-align: left;
+  margin-right: auto;
+  margin-left: 0.5em;
+}

@@ -1,0 +1,38 @@
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1em;
+  width: 28em;
+}
+  
+.form-header {
+  display: flex;
+  flex-direction: column;
+  order: 1;
+}
+  
+label {
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+
+.form-input-container {
+  display: flex;
+  flex-direction: column;
+  order: 2;
+}
+  
+.form-input {
+  width: 28em;
+  padding: 0.5em;
+  border: 2px solid #ccc;
+  border-radius: 0.5em;
+  font-size: 1em;
+
+}
+  
+.title-input {
+  font-size: 18px;
+  color: #fff;
+  margin-top: 1em;
+}

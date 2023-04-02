@@ -1,0 +1,34 @@
+body {
+  width: 100%;
+  height: 100%;
+  background-color: #54655E;
+  font-family: "Helvetica", sans-serif;
+}
+  
+.aligments {
+  width: 100%;
+  height: 100%;
+  
+}
+  
+.margem {
+  margin: auto;
+  width: 70em;
+}
+  
+.title {
+  font-size: 1.5em;
+  color: #fff;
+  margin-bottom: 1em;
+  text-align: center;
+  margin-top: 2em;
+}
+  
+.teste1 {
+  display: inline-block;
+}
+  
+.nanana {
+  justify-content: space-between;
+}
+  

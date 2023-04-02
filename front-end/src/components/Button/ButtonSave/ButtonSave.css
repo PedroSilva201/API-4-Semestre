@@ -1,0 +1,25 @@
+.button-save {
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 50em;
+}
+
+
+.button-save button {
+  background-color: #43949B;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 12px;
+  font-size: 16px;
+  cursor: pointer;
+  width: 14em;
+  text-align: center;
+  font-size: 16px;
+}
+
+.button-save button:hover {
+  background-color: #648365;
+}
