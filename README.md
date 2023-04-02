@@ -1,17 +1,57 @@
 # API-4-Semestre 2023-1
-# Equipe: Ilha dos Devs
+<h1>Equipe: Ilha dos Devs</h1>
 API - Aprendizagem de Projetos Integrados do 4° Semestre com a empresa parceira Ionic Health
-# Objetivo do projeto:
+<h1>Objetivo do projeto</h1>
 Consiste em criar um sistema de chamados para atendimentos na area de saude, envolvendo medicos, funcionarios do ambiente hospitalar e equivalentes seguindo a lesgislaçao e atendendo a realidade proposta.
-# Os integrantes da equipe
-# Cronograma
+<h1>Proposta do projeto</h1>
+<h1>Os integrantes da equipe</h1>
+<table>
+    <thead>
+        <th width=365px>Membro da Equipe</th>
+        <th width=365px>Função</th>
+    </thead>
+    <tr>
+        <td><p align="center"> 1ª Sprint </p></td>
+        <td><p align="center"> Scrum Master </p></td>
+    </tr>
+    <tr>
+        <td><p align="center"> 2ª Sprint </p></td>
+        <td><p align="center"> Product Owner </p></td>
+    </tr>
+    <tr>
+        <td><p align="center"> 3ª Sprint </p></td>
+        <td><p align="center"> Dev Team </p></td>
+    </tr>
+    <tr>
+        <td><p align="center"> 4ª Sprint </p></td>
+        <td><p align="center"> Dev Team </p></td>
+    </tr>
+        <tr>
+        <td><p align="center"> 4ª Sprint </p></td>
+        <td><p align="center"> Dev Team </p></td>
+    </tr>
+        <tr>
+        <td><p align="center"> 4ª Sprint </p></td>
+        <td><p align="center"> Dev Team </p></td>
+    </tr>
+        <tr>
+        <td><p align="center"> 4ª Sprint </p></td>
+        <td><p align="center"> Dev Team </p></td>
+    </tr>
+</table>
+<h1>Cronograma<h1/>
 <h2>:calendar: Calendario de Entregas :spiral_calendar:</h2>
 <table>
     <thead>
-        <th width=100px>Sprint</th>
-        <th width=270px>Inicio</th>
-        <th width=270px>Fim</th>
+        <th width=110px>Sprint</th>
+        <th width=310px>Inicio</th>
+        <th width=310px>Fim</th>
     </thead>
+        <tr>
+        <td><p align="center"> Kick-off </p></td>
+        <td><p align="center"> 07 de Março </p></td>
+        <td><p align="center"> 07 de Março </p></td>
+    </tr>
     <tr>
         <td><p align="center"> 1ª Sprint </p></td>
         <td><p align="center"> 13 de Março </p></td>
@@ -72,4 +112,6 @@ Consiste em criar um sistema de chamados para atendimentos na area de saude, env
         <td><p align="center"><a href="">Download</a></p></td>
     </tr>
 </table>
-<h2> Contatos e Creditos</h2>
+<h1>Tecnologias envolvidas no projeto</h1>
+<h1>Product Backlog (Parcial)</h1>
+
