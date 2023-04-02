@@ -106,3 +106,5 @@ Consiste em criar um sistema de chamados para atendimentos na area de saude, env
 <p>Javascript (Back-end & Front-end)</p>
 <p>Css (Front-end)</p>
 <p>BrModelo (modelo conceitual e logico)</p>
+<h1>Observações e detalhes</h1>
+<p>Para rodar primeiro deve ir ao front-end e digitar Npm install e depois Npm start</p>
