@@ -63,6 +63,8 @@ Consiste em criar um sistema de chamados para atendimentos na area de saude, env
 <p>• Heroku</p>
 <p>• TypeScript</p>
 <h1>Product Backlog (1ªSprint)</h1>
+<h1>Grafico Burndowm</h1>
+<img src="D:\Capturar3.PNG">
 <h1>:calendar: Calendario de Entregas :spiral_calendar:</h1>
 <table>
     <thead>
