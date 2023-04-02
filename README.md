@@ -3,11 +3,6 @@
 API - Aprendizagem de Projetos Integrados do 4° Semestre com a empresa parceira Ionic Health
 <h1>Quem somos?<h1>
 <p>A equipe Ilha dos devs foi criada cujo o objetivo e participar do Aprendizagem de Projetos Integrados da FATEC Professor Jessen Vidal, em que a mesma esta na 8ªeidção</p>
-<h1>Qual a Empresa Envolvida neste projeto</h1>
-<p>A empresa parceira neste projeto e a Ionic Health, empresa do Grupo Ness, uma das principais companhias da area da saude</p>
-<h1>Objetivo do projeto</h1>
-Consiste em criar um sistema de chamados para atendimentos na area de saude, envolvendo medicos, funcionarios do ambiente hospitalar e equivalentes seguindo a lesgislaçao e atendendo a realidade proposta.
-<h1>Proposta do projeto</h1>
 <h1>Os integrantes da equipe</h1>
 <table>
     <thead>
@@ -43,6 +38,30 @@ Consiste em criar um sistema de chamados para atendimentos na area de saude, env
         <td><p align="center"> Dev Team </p></td>
     </tr>
 </table>
+<h1>Qual a Empresa Envolvida neste projeto</h1>
+<p>A empresa parceira neste projeto e a Ionic Health, empresa do Grupo Ness, uma das principais companhias da area da saude</p>
+<h1>Objetivo do projeto</h1>
+Consiste em criar um sistema de chamados para atendimentos na area de saude, envolvendo medicos, funcionarios do ambiente hospitalar e equivalentes seguindo a lesgislaçao e atendendo a realidade proposta.
+<h1>Proposta do projeto</h1>
+<p>A proposta do projeto atente os seguintes requisitos abaixo: </p>
+<h4>Requisitos Funcionais:</h4>
+<p>• Cadastros de grupo de usuários.</p>
+<p>• Permissão por grupo e por usuário</p>
+<p>• Usuários devem ter distinção por times.</p>
+<p>• Fila de chamados por time</p>
+<p>• Configuração e personalização de formulário de chamados.</p>
+<p>• Árvore de decisão para escalonamento de chamados.</p>
+<p>• Cadastro de soluções para problemas conhecidos. • Formulário de abertura de chamado com indicação de interessados.</p>
+<h4>Requisitos Não Funcionais:</h4>
+<p>• React</p>
+<p>• NodeJS</p>
+<h4>Tecnologias Desejáveis:</h4>
+<p>• MySQL/Oracle</p>
+<p>• BrModelo</p>
+<p>• MySQL Workbench/SQLDeveloper</p>
+<p>• Vertabelo</p>
+<p>• Heroku</p>
+<p>• TypeScript</p>
 <h1>Cronograma<h1/>
 <h2>:calendar: Calendario de Entregas :spiral_calendar:</h2>
 <table>
