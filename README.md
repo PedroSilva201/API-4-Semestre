@@ -14,27 +14,23 @@ API - Aprendizagem de Projetos Integrados do 4° Semestre com a empresa parceira
         <td><p align="center"> Scrum Master </p></td>
     </tr>
     <tr>
-        <td><p align="center"> Guilherme Mezzono </p></td>
+        <td><p align="center"> Guilherme Konflanz Mezzomo </p></td>
         <td><p align="center"> Product Owner </p></td>
     </tr>
+        <tr>
+        <td><p align="center"> Bianca Martins Gonçalves de Paiva </p></td>
+        <td><p align="center"> Dev Team </p></td>
+    </tr>
     <tr>
-        <td><p align="center"> 3ª Sprint </p></td>
+        <td><p align="center"> Francisco Quirino </p></td>
         <td><p align="center"> Dev Team </p></td>
     </tr>
     <tr>
-        <td><p align="center"> 4ª Sprint </p></td>
+        <td><p align="center"> Gustavo Konflanz Mezzomo </p></td>
         <td><p align="center"> Dev Team </p></td>
     </tr>
         <tr>
-        <td><p align="center"> 4ª Sprint </p></td>
-        <td><p align="center"> Dev Team </p></td>
-    </tr>
-        <tr>
-        <td><p align="center"> 4ª Sprint </p></td>
-        <td><p align="center"> Dev Team </p></td>
-    </tr>
-        <tr>
-        <td><p align="center"> 4ª Sprint </p></td>
+        <td><p align="center"> João Victor Medeiros </p></td>
         <td><p align="center"> Dev Team </p></td>
     </tr>
 </table>
