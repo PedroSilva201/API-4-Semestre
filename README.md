@@ -62,7 +62,6 @@ Consiste em criar um sistema de chamados para atendimentos na area de saude, env
 <p>• Vertabelo</p>
 <p>• Heroku</p>
 <p>• TypeScript</p>
-<h1>Cronograma<h1/>
 <h2>:calendar: Calendario de Entregas :spiral_calendar:</h2>
 <table>
     <thead>
