@@ -1,6 +1,10 @@
 # API-4-Semestre 2023-1
 <h1>Equipe: Ilha dos Devs</h1>
 API - Aprendizagem de Projetos Integrados do 4° Semestre com a empresa parceira Ionic Health
+<h1>Quem somos?<h1>
+<p>A equipe Ilha dos devs foi criada cujo o objetivo e participar do Aprendizagem de Projetos Integrados da FATEC Professor Jessen Vidal, em que a mesma esta na 8ªeidção</p>
+<h1>Qual a Empresa Envolvida neste projeto</h1>
+<p>A empresa parceira neste projeto e a Ionic Health, empresa do Grupo Ness, uma das principais companhias da area da saude</p>
 <h1>Objetivo do projeto</h1>
 Consiste em criar um sistema de chamados para atendimentos na area de saude, envolvendo medicos, funcionarios do ambiente hospitalar e equivalentes seguindo a lesgislaçao e atendendo a realidade proposta.
 <h1>Proposta do projeto</h1>
