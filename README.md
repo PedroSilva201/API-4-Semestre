@@ -10,11 +10,11 @@ API - Aprendizagem de Projetos Integrados do 4° Semestre com a empresa parceira
         <th width=365px>Função</th>
     </thead>
     <tr>
-        <td><p align="center"> 1ª Sprint </p></td>
+        <td><p align="center"> Pedro Reginaldo Tome Silva </p></td>
         <td><p align="center"> Scrum Master </p></td>
     </tr>
     <tr>
-        <td><p align="center"> 2ª Sprint </p></td>
+        <td><p align="center"> Guilherme Mezzono </p></td>
         <td><p align="center"> Product Owner </p></td>
     </tr>
     <tr>
@@ -100,6 +100,9 @@ Consiste em criar um sistema de chamados para atendimentos na area de saude, env
 </table>
 <p>Feira de soluçoes sera realizada em Junho com datas a serem definidas pela organização</p>
 <h1>Tecnologias envolvidas no projeto</h1>
-<p>Typescript</p>
-<p>Mysql</p>
-<p>React</p>
+<p>Typescript (Back-end)</p>
+<p>Mysql (Banco de dados)</p>
+<p>React (Back-end)</p>
+<p>Javascript (Back-end & Front-end)</p>
+<p>Css (Front-end)</p>
+<p>BrModelo (modelo conceitual e logico)</p>
