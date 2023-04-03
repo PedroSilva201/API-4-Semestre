@@ -1,8 +1,8 @@
 # API-4-Semestre 2023-1
 <h1>Equipe: Ilha dos Devs</h1>
 API - Aprendizagem de Projetos Integrados do 4° Semestre com a empresa parceira Ionic Health
-<h1>Quem somos?<h1>
-<p>A equipe Ilha dos devs foi criada cujo o objetivo e participar do Aprendizagem de Projetos Integrados da FATEC Professor Jessen Vidal, em que a mesma esta na 8ªeidção</p>
+<h1>Quem somos?</h1>
+<p>A equipe Ilha dos Devs e um time de desenvolvimento constituida por 6 (seis) integrantes ao todo</p>
 <h1>Os integrantes da equipe</h1>
 <table>
     <thead>
